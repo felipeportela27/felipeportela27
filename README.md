@@ -32,7 +32,7 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/matheusbezerraa">
+<a href="[https://github.com/felipeportela27]">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeaa&show_icons=true&theme=dracula&count_private=true"/>
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
